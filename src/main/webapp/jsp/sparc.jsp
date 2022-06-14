@@ -117,7 +117,7 @@ li {
 										aria-expanded="true" id="btn_new"> New <span class="caret"></span>
 									</a>
 										<ul class="dropdown-menu">
-											<li><a href="#" id="newFolder">New Folder</a><!-- 14 --></li>
+											<li><a href="#" id="newFolder">New Folder</a></li>
 											<li><a href="#" id="newFile">New File</a></li>
 										</ul></li>
 									<!-- Save Button -->
